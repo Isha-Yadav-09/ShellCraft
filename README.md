@@ -1,4 +1,4 @@
-# MyShell
+# ShellCraft
 
 A custom Unix shell written in C, with zsh-style conveniences and a set of
 built-in productivity commands. It implements its own tokenizer, executor,
